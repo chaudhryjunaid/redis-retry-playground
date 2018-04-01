@@ -14,6 +14,8 @@
   "author": "Chaudhry Junaid Anwar",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.5",
+    "minimist": "^1.2.0",
     "redis": "^2.8.0"
   }
 }

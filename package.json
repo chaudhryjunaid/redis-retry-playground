@@ -1,0 +1,19 @@
+{
+  "name": "redis-retry-playground",
+  "version": "1.0.0",
+  "description": "A program to test redis retry behavior",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node_redis",
+    "redis",
+    "retry_strategy"
+  ],
+  "author": "Chaudhry Junaid Anwar",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
